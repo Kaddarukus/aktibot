@@ -1,0 +1,6 @@
+{
+  "name": "HospesAI",
+  "description": "An AI customer support hosting platform where businesses can deploy automated chat agents grounded in their own uploaded documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
